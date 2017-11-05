@@ -6,4 +6,4 @@ input.txt is the collection of 3D mazes in row major form.
 First line is the dimension of the N x N x N maze.  
 The next N^3 lines are the maze (0s are open, 1s are walls).  
 
-each line in output.txt is the length of the path through the maze.
+Each line in output.txt is the length of the path through the maze.
